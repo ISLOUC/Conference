@@ -1,0 +1,847 @@
+[
+    {
+        "刊物缩写": {
+            "类型": "会议|期刊",
+            "CCF等级": "A|B|C",
+            "刊物全称": "",
+            "出版社": "",
+            "网址": "",
+            "页数要求": "",
+            "截稿日": "",
+            "录取确认日期": "",
+            "会议举行日期": "",
+            "会议地点": ""
+        }
+    },
+    {
+        "计算机体系结构/并行与分布计算/存储系统": {
+            "ASPLOS": {
+                "类型": "会议",
+                "刊物全称": "Architectural Support for Programming Languages and Operating Systems",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/asplos/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "FAST": {
+                "类型": "会议",
+                "刊物全称": "Conference on File and Storage Technologies",
+                "出版社": "USENIX",
+                "网址": "http://dblp.uni-trier.de/db/conf/fast/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "HPCA": {
+                "类型": "会议",
+                "刊物全称": "High-Performance Computer Architecture",
+                "出版社": "IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/asplos/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "ISCA": {
+                "类型": "会议",
+                "刊物全称": "International Symposium on Computer Architecture",
+                "出版社": "ACM /IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/isca/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "MICRO": {
+                "类型": "会议",
+                "刊物全称": "MICRO",
+                "出版社": "IEEE/ACM",
+                "网址": "http://dblp.uni-trier.de/db/journals/micro/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "SC": {
+                "类型": "会议",
+                "刊物全称": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+                "出版社": "IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/sc/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "USENIX ATC": {
+                "类型": "会议",
+                "刊物全称": "USENIX Annul Technical Conference",
+                "出版社": "USENIX",
+                "网址": "http://dblp.uni-trier.de/db/conf/usenix/index.html",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "PPoPP": {
+                "类型": "会议",
+                "刊物全称": "Principles and Practice of Parallel Programming",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/ppopp/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "计算机网络": {
+            "TOIT": {
+                "类型": "期刊",
+                "CCF等级": "B",
+                "刊物全称": "ACM Transactions on Internet Technology",
+                "出版社": "ACM",
+                "网址": "",
+                "页数要求": "20-25",
+                "截稿日": "",
+                "录取确认日期": ""
+            },
+            "TOMCCAP": {
+                "类型": "期刊",
+                "CCF等级": "B",
+                "刊物全称": "ACM Transactions on Multimedia Computing, Communications, and Applications ",
+                "出版社": "ACM",
+                "网址": "https://tomm.acm.org/",
+                "页数要求": "23",
+                "截稿日": "每季收稿",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+        "TOSN": {
+            "类型": "期刊",
+            "CCF等级": "B",
+            "刊物全称": "ACM Transactions on Sensor Networks (TOSN)",
+            "出版社": "ACM",
+            "网址": "https://tosn.acm.org/",
+            "页数要求": "35/40/10",
+            "截稿日": "季度出版",
+            "录取确认日期": "",
+            "会议举行日期": "",
+            "会议地点": "",
+            "备注":"页数:研究论文 30-40,调查论文30-50,技术笔记 10-15 ;  无线传感器网络领域内顶级期刊，简称TOSN，以发表高质量原创性研究类文章为主，也发表综述类文章。文章长度一般在30页以上，最多可达50页，确保提供足够空间给作者完整阐述其研究内容。 期刊以季刊发行，每年2，5，8，11月出版，每刊刊登小10篇文章。 杂志编委多为无线传感器网络研究领域内出名学者，如开发LEACH算法的Wendi Heinzelman在该刊担任副主编。杂志审稿人态度认真负责，经常深究投稿文章的技术细节问题。鉴于投稿文章长度均较长，杂志外审时间规定为：一审小于15周，二审小于35周。期刊每年所能发表文章数量有限，竞争激烈，投稿文章接收率低。另杂志编委多为传感器网络顶级会议ACM SENSYS成员，每年ACM SENSYS的优秀论文也有机会被推荐快速发表在TOSN上。"
+        },
+        "CN": {
+            "类型": "期刊",
+            "CCF等级": "B",
+            "刊物全称": "Computer Networks",
+            "出版社": "Elsevier",
+            "网址": "https://www.journals.elsevier.com/computer-networks",
+            "页数要求": "",
+            "截稿日": "",
+            "录取确认日期": ""
+        },
+        "TCOM": {
+            "类型": "期刊",
+            "CCF等级": "B",
+            "刊物全称": "IEEE Transcation on Communications",
+            "出版社": "IEEE",
+            "网址": "http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26",
+            "页数要求": "",
+            "截稿日": "",
+            "录取确认日期": "",
+            "备注":"通信这方面,投稿较难"
+        },
+        "TWC": {
+            "类型": "期刊",
+            "CCF等级": "B",
+            "刊物全称": "IEEE Transcation on Wireless Communication",
+            "出版社": "IEEE",
+            "网址": "https://www.comsoc.org/publications/journals/ieee-twc",
+            "页数要求": "",
+            "截稿日": "",
+            "录取确认日期": ""
+        },
+        "TNSM":{
+            "类型":"期刊",
+            "CCF等级":"C",
+            "刊物全称":"IEEE Transactions on Network and Service Management",
+            "出版社":"IEEE",
+            "网址":"https://www.comsoc.org/publications/journals/ieee-tnsm",
+            "页数要求":"",
+            "截稿日":"季度"
+        },
+        "JNCA":{
+            "类型":"期刊",
+            "CCF等级":"C",
+            "刊物全称":"Journal of Network and Computer Applications",
+            "出版社":"Elsevier",
+            "网址":"https://www.journals.elsevier.com/journal-of-network-and-computer-applications",
+            "页数要求":"10-20页双栏",
+            "截稿日":"季度"
+        },
+        "PPNA":{
+            "类型":"期刊",
+            "CCF等级":"C",
+            "刊物全称":"Peer-to-Peer Networking and Applications",
+            "出版社":"Springer",
+            "网址":"https://www.springer.com/engineering/signals/journal/12083",
+            "页数要求":"",
+            "截稿日":"季度"
+        },
+        "WCMC":{
+            "类型":"期刊",
+            "CCF等级":"C",
+            "刊物全称":"wireless communications and mobile computing",
+            "出版社":"Springer",
+            "网址":"https://www.springer.com/engineering/signals/journal/12083",
+            "页数要求":"",
+            "截稿日":"季度"
+        },
+
+			"MOBICOM": {
+                "类型": "会议",
+                "刊物全称": "ACM International Conference on Mobile Computing and Networking",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/mobicom/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "SIGCOMM": {
+                "类型": "会议",
+                "刊物全称": "ACM International Conference on the applications, technologies, architectures, and protocols for computer communication",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/sigcomm/index.html",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "INFOCOM": {
+                "类型": "会议",
+                "刊物全称": "IEEE International Conference on Computer Communications",
+                "出版社": "IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/infocom/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "SenSys": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190412",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "CoNEXT": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "MobiSys": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190626",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "ICNP": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "MobiHoc": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190321",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "IWQos": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190220",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "IMC": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190303",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "NOSSDAV": {
+                "类型": "会议",
+                "CCF等级":"B",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190621",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "ISCC": {
+                "类型": "会议",
+                "CCF等级":"C",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20180216",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            
+            "WoWMoM": {
+                "类型": "会议",
+                "CCF等级":"C",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "20190106",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "网络与信息安全": {
+            "CCS": {
+                "类型": "会议",
+                "刊物全称": "ACM Conference on Computer and Communications Security",
+                "出版社": "ACM",
+                "网址": "http://ccs2019.sigsac.org/",
+                "页数要求": "no more than 12 pages ",
+                "截稿日": "February 5, May 15, September 1",
+                "录取确认日期": "Friday April 19 2019, Tuesday July 30 2019, TBD",
+                "会议举行日期": "November 11 to November 15, 2019",
+                "会议地点": "London, United Kingdom"
+            },
+            "CRYPTO": {
+                "类型": "会议",
+                "刊物全称": "International Cryptology Conference",
+                "出版社": "Springer",
+                "网址": "https://www.iacr.org/meetings/crypto/",
+                "页数要求": "",
+                "截稿日": "Feb 13 2019",
+                "录取确认日期": "April 29 2019",
+                "会议举行日期": "August 18-22 2019",
+                "会议地点": " Santa Barbara, USA"
+            },
+            "EUROCRYPT": {
+                "类型": "会议",
+                "刊物全称": "European Cryptology Conference",
+                "出版社": "Springer",
+                "网址": "http://dblp.uni-trier.de/db/conf/eurocrypt/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "S&P": {
+                "类型": "会议",
+                "刊物全称": "IEEE Symposium on Security and Privacy",
+                "出版社": "IEEE",
+                "网址": "http://www.ieee-security.org/TC/SP2020/index.html",
+                "页数要求": "13 pages of text and up to 5 pages for references and appendices, totalling no more than 18 pages.",
+                "截稿日": "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT)",
+                "录取确认日期": "Within two months of submission, author notifications of Accept/Revise/Reject decisions will be sent out.",
+                "会议举行日期": "MAY 18-20, 2020",
+                "会议地点": "SAN FRANCISCO, CA"
+            },
+            "USENIX Security": {
+                "类型": "会议",
+                "刊物全称": "UUsenix Security Symposium",
+                "出版社": "USENIX Association",
+                "网址": "https://www.usenix.org/conference/usenixsecurity19",
+                "页数要求": "at most 13 typeset pages,",
+                "截稿日": " Friday, February 15, 2019, 5:00 pm PST",
+                "录取确认日期": "Wednesday, May 1, 2019",
+                "会议举行日期": " August 14–16, 2019",
+                "会议地点": "Santa Clara, CA."
+            }
+        },
+        "软件工程/系统软件/程序设计语言": {
+            "FSE/ESEC": {
+                "类型": "会议",
+                "刊物全称": "ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference",
+                "出版社": "ACM",
+                "网址": "https://esec-fse19.ut.ee/",
+                "页数要求": "must be between 6 to 10 pages, with an additional 2 pages for references.",
+                "截稿日": "26 April 2019",
+                "录取确认日期": "10 June 2019",
+                "会议举行日期": "26-30 AUGUST 2019",
+                "会议地点": "TALLINN, ESTONIA"
+            },
+            "OOPSLA": {
+                "类型": "会议",
+                "刊物全称": "Conference on Object-Oriented Programming Systems, Languages,and Applications",
+                "出版社": "ACM",
+                "网址": "https://2019.splashcon.org/track/splash-2019-oopsla",
+                "页数要求": "Submitted papers may be at most 23 pages in 10 point font, excluding bibliographic references and appendices. The page limit for final versions of papers is 27 pages (excluding references)",
+                "截稿日": "Fri 5 Apr 2019",
+                "录取确认日期": "Sun 1 Sep 2019",
+                "会议举行日期": "Sun 20 - Fri 25 October 2019",
+                "会议地点": "Athens, Greece"
+            },
+            "ICSE": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Software Engineering",
+                "出版社": "ACM/IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/icse/",
+                "页数要求": "not exceed 10 pages for the main text. Two more pages containing only references are permitted.",
+                "截稿日": "Fri 23 Aug 2019",
+                "录取确认日期": "Mon 9 Dec 2019",
+                "会议举行日期": "23-29 May 2020",
+                "会议地点": "Seoul, South Korea"
+            },
+            "OSDI": { //两年一次
+                "类型": "会议",
+                "刊物全称": "USENIX Symposium on Operating Systems Design and Implementations",
+                "出版社": "USENIX",
+                "网址": "http://dblp.uni-trier.de/db/conf/osdi/",
+                "页数要求": "12 single-spaced 8.5\" x 11\" pages, plus as many pages as needed for references",
+                "截稿日": "Thursday, April 26, 2018, 3:00 pm PDT (Abstract), Thursday, May 3, 2018, 3:00 pm PDT (Complete paper)",
+                "录取确认日期": "Tuesday, July 24, 2018",
+                "会议举行日期": "OCTOBER 8–10, 2018",
+                "会议地点": "CARLSBAD, CA, USA"
+            },
+            "PLDI": {
+                "类型": "会议",
+                "刊物全称": "ACM SIGPLAN Symposium on Programming Language Design & Implementation",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/pldi/",
+                "页数要求": " no more than 12 pages, excluding bibliography. There is no limit on the page count for references.",
+                "截稿日": "Fri 16 Nov 2018",
+                "录取确认日期": "Fri 15 Feb 2019",
+                "会议举行日期": "Sat 22 - Wed 26 June 2019",
+                "会议地点": "Phoenix, Arizona, United States"
+            },
+            "POPL": {
+                "类型": "会议",
+                "刊物全称": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/popl/",
+                "页数要求": "no more than 25 pages of text, excluding bibliography",
+                "截稿日": "Wed 10 Jul 2019",
+                "录取确认日期": "Mon 14 Oct 2019",
+                "会议举行日期": "Wed 22 - Fri 24 Jan 2020",
+                "会议地点": "New Orleans, Louisiana, United States"
+            },
+            "SOSP": {
+                "类型": "会议",
+                "刊物全称": "ACM Symposium on Operating Systems Principles",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/sosp/",
+                "页数要求": "",
+                "截稿日": "April 17, 2019 (11:59 PM UTC) (Abstract), April 24, 2019 (11:59 PM UTC) (paper)",
+                "录取确认日期": "July 22, 2019",
+                "会议举行日期": "October 28-30, 2019",
+                "会议地点": "Huntsville, Ontario, Canada"
+            },
+            "ASE": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Automated Software Engineering",
+                "出版社": "IEEE/ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/kbse/",
+                "页数要求": "not exceed 10 pages (including figures) plus up to 2 pages that contain ONLY references.",
+                "截稿日": "Mon 6 May 2019 (Abstract), Mon 13 May 2019 (paper)",
+                "录取确认日期": "Mon 5 Aug 2019",
+                "会议举行日期": "Tue 12 - Thu 14 Nov 2019",
+                "会议地点": "San Diego, California, United States"
+            },
+            //B类会议
+            "CAiSE": { //主题有安全
+                "类型": "会议",
+                "刊物全称": "International Conference on Advanced Information Systems Engineering",
+                "出版社": "Springer",
+                "网址": "https://www.caise19.it/important-dates/",
+                "页数要求": "not exceed 15 pages, including all text, figures, references and appendices.",
+                "截稿日": "23 November 2018 (Abstract), 30 November 2018 – 23:59 PST (paper)",
+                "录取确认日期": "28 February 2019",
+                "会议举行日期": "5-7 June 2019",
+                "会议地点": "Rome, Italy"
+            },
+            "ESEM": { //Data mining, machine learning, and AI-based approaches
+                "类型": "会议",
+                "刊物全称": "International Symposium on Empirical Software Engineering and Measurement",
+                "出版社": "ACM/IEEE",
+                "网址": "http://eseiw2019.com/esem/",
+                "页数要求": "6 pages (Industry Papers)",
+                "截稿日": "June 10, 2019",
+                "录取确认日期": "July 14, 2019",
+                "会议举行日期": "Sep 16, 2019 - Sep 20, 2019",
+                "会议地点": "Porto de Galinhas, BR"
+            },
+        },
+        "数据库/数据挖掘/内容检索": {
+            "SIGMOD": {
+                "类型": "会议",
+                "刊物全称": "ACM Conference on Management of Data",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/sigmod/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "ACM": {
+                "类型": "会议",
+                "刊物全称": "ACM Knowledge Discovery and Data Mining",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/kdd/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "SIGIR": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Research on Development in Information Retrieval",
+                "出版社": "ACM",
+                "网址": "http://dblp.uni-trier.de/db/conf/sigir/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "VLDB": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Very Large Data Bases",
+                "出版社": "Morgan Kaufmann",
+                "网址": "http://dblp.uni-trier.de/db/conf/vldb/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "ICDE": {
+                "类型": "会议",
+                "刊物全称": "IEEE International Conference on Data Engineering",
+                "出版社": "IEEE",
+                "网址": "http://dblp.uni-trier.de/db/conf/icde/",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "计算机科学理论": {
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "计算机图形学与多媒体": {
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "人工智能": {
+            "AAAI": { //AAAI-20的信息还未更新。https://aaai.org/Conferences/AAAI-20/
+                "类型": "会议",
+                "刊物全称": "AAAI Conference on Artificial Intelligence",
+                "出版社": "AAAI",
+                "网址": "https://aaai.org/Conferences/AAAI-19/",
+                "页数要求": "up to 8 pages with page 8 containing nothing but references.",
+                "截稿日": "September 5, 2018",
+                "录取确认日期": "November 1, 2018",
+                "会议举行日期": "January 27, 2019 - February 1, 2019",
+                "会议地点": "the Hilton Hawaiian Village, Honolulu, Hawaii, USA."
+            },
+            "CVPR": {
+                "类型": "会议",
+                "刊物全称": "IEEE Conference on Computer Vision and Pattern Recognition",
+                "出版社": "IEEE",
+                "网址": "http://cvpr2019.thecvf.com/",
+                "页数要求": " Papers are limited to 8 pages",
+                "截稿日": "November 16, 2018 [11:59 p.m. Pacific Standard Time] ",
+                "录取确认日期": "March 2, 2019 [Pacific Standard Time]",
+                "会议举行日期": "June 16th - June 20th, 2019",
+                "会议地点": "Long Beach, CA"
+            },
+            "ICCV": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Computer Vision",
+                "出版社": "IEEE",
+                "网址": "http://iccv2019.thecvf.com/",
+                "页数要求": "Papers are limited to 8 pages",
+                "截稿日": "March 22, 2019 (11:59PM PST)",
+                "录取确认日期": "July 22, 2019",
+                "会议举行日期": "October 27-November 2",
+                "会议地点": "Seoul, Korea."
+            },
+            "ICML": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Machine Learning",
+                "出版社": "ACM",
+                "网址": "https://icml.cc/",
+                "页数要求": "8 pages, up to twelve pages when references and acknowledgments are included. ",
+                "截稿日": "Jan. 23, 2019, 3:59 p.m.",
+                "录取确认日期": "April 24, 2019, 3:59 p.m.",
+                "会议举行日期": "June 10th to June 15th",
+                "会议地点": "Long Beach, CA, USA"
+            },
+            "IJCAI": {
+                "类型": "会议",
+                "刊物全称": "International Joint Conference on Artificial Intelligence",
+                "出版社": "Morgan Kaufmann",
+                "网址": "https://www.ijcai.org/",
+                "页数要求": "6 pages for the main text",
+                "截稿日": "February 25, 2019",
+                "录取确认日期": "May 9, 2019",
+                "会议举行日期": "August 10-16, 2019",
+                "会议地点": "Macao, China"
+            },
+            "NIPS": {
+                "类型": "会议",
+                "刊物全称": "Annual Conference on Neural Information Processing Systems",
+                "出版社": "MIT Press",
+                "网址": "https://nips.cc/",
+                "页数要求": "8 pages",
+                "截稿日": "May 16, 2019, 1 p.m. (Abstract), May 23, 2019, 1 p.m. (paper)",
+                "录取确认日期": "Sept. 4, 2019, 5 p.m.",
+                "会议举行日期": "Sun Dec 8th through Sat the 14th, 2019",
+                "会议地点": "Vancouver Convention Center, Vancouver CANADA "
+            },
+            "ACL": {
+                "类型": "会议",
+                "刊物全称": "Annual Meeting of the Association for Computational Linguistics",
+                "出版社": "ACL",
+                "网址": "http://www.acl2019.org/EN/index.xhtml",
+                "页数要求": "eight (8) pages",
+                "截稿日": " March 4",
+                "录取确认日期": "May 13",
+                "会议举行日期": "July 28th to August 2nd, 2019.",
+                "会议地点": "Florence (Italy)"
+            },
+            //B类会议
+            "ECAI": {
+                "类型": "会议",
+                "刊物全称": "European Conference on Artificial Intelligence",
+                "出版社": "IOS Press",
+                "网址": "http://ecai2020.eu/",
+                "页数要求": "6 pages",
+                "截稿日": "November 15, 2019",
+                "录取确认日期": "January 15, 2020",
+                "会议举行日期": " June 8-12, 2020",
+                "会议地点": "Santiago de Compostela (Spain)"
+            },
+            "KR": {
+                "类型": "会议",
+                "刊物全称": "International Conference on Principles of Knowledge Representation and Reasoning",
+                "出版社": "Morgan Kaufmann",
+                "网址": "http://reasoning.eas.asu.edu/kr2018/",
+                "页数要求": "full papers of up to 9 pages, short papers describing applications, systems and/or demos, of up to 4 pages",
+                "截稿日": "13 May 2018 (Abstract), 20 May 2018 (paper)",
+                "录取确认日期": "11 July 2018",
+                "会议举行日期": "30 October-2 November 2018",
+                "会议地点": "Tempe, Arizona"
+            }
+        },
+        "人机交互与普适计算": {
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            },
+            "": {
+                "类型": "会议",
+                "刊物全称": "",
+                "出版社": "",
+                "网址": "",
+                "页数要求": "",
+                "截稿日": "",
+                "录取确认日期": "",
+                "会议举行日期": "",
+                "会议地点": ""
+            }
+        },
+        "交叉/综合/新兴": {
+            "WWW": {
+                "类型": "会议",
+                "刊物全称": "International World Wide Web Conferences",
+                "出版社": "ACM",
+                "网址": "https://www2019.thewebconf.org/",
+                "页数要求": "short papers (up to 6 pages in length) and full papers (up to 10 pages in length), plus unlimited pages for references. ",
+                "截稿日": "2018-10-29",
+                "录取确认日期": "2019-01-21",
+                "会议举行日期": "May 13-17, 2019",
+                "会议地点": "San Francisco"
+            },
+            "RTSS": {
+                "类型": "会议",
+                "刊物全称": "Real-Time Systems Symposium",
+                "出版社": "IEEE",
+                "网址": "http://2019.rtss.org/",
+                "页数要求": "10 pages of technical content with additional pages permitted for the bibliography and acknowledgments only.",
+                "截稿日": "Thurs 30th May 2019 23:59 UTC-12",
+                "录取确认日期": "Fri 9th August 2019",
+                "会议举行日期": "3rd-6th December 2019",
+                "会议地点": "Hong Kong"
+            }
+        }
+    }
+]
